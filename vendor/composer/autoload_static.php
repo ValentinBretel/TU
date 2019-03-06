@@ -83,6 +83,7 @@ class ComposerStaticInit7c2cd7b71af6aef9402abee1840b006f
     );
 
     public static $classMap = array (
+        'Email' => __DIR__ . '/../..' . '/src/Email.php',
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
         'File_Iterator_Factory' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Factory.php',
