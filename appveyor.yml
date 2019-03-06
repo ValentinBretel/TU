@@ -1,5 +1,5 @@
 version: 1.0.{build}
-clone_folder: https://github.com/ValentinBretel/TU.git
+clone_folder: git@github.com:ValentinBretel/TU.git
 build:
   verbosity: minimal
 test_script:
